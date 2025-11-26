@@ -11,6 +11,10 @@ const menu = [
     title: "Works",
     link: "/works",
   },
+  {
+    title: "Contact",
+    link: "/contact",
+  },
 ];
 
 export default menu;

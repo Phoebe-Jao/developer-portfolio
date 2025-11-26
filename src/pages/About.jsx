@@ -33,6 +33,7 @@ function About() {
             <p className="text-justify max-md:max-w-full max-w-200 max-md:leading-6 leading-7 pb-4">
               I am passionate about building clean, responsive websites and constantly improving my skills in web development. With a strong foundation in HTML, CSS, and JavaScript, I enjoy turning designs into functional digital experiences. I am eager to learn, grow, and contribute to innovative projects while honing my skills.
             </p>
+            <a href="/assets/pdf/JAO-PHOEBE-CV-2025.pdf" target="_blank" className="block transition-opacity duration-600 ease-in-out hover:opacity-50 mt-[2.4rem] rounded bg-gradient w-32 uppercase text-dark-blue font-semibold text-[1.125rem] px-[1.9rem] py-3 cursor-pointer">My CV</a>
           </div>
         </div>
       </section>

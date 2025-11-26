@@ -13,7 +13,7 @@ function Home() {
             <span className="font-extrabold max-md:text-5xl min-[769px]:2xl:text-5xl text-5xl">Front End Developer</span>
           </h1>
           <p className="text-justify max-md:text-[1rem] min-[769px]:2xl:text-[1.375rem] text-[1.2rem] max-md:pt-[0.7rem] pt-[2.3rem] leading-loose">A Front End Developer based in the Philippines, who is passionate about building clean, responsive websites and constantly improving my skills in web development.</p>
-          <Link to="/about" className="block transition-opacity duration-600 ease-in-out hover:opacity-50 mt-[2.4rem] rounded bg-gradient w-[10.625rem] uppercase text-dark-blue font-medium text-[1.125rem] px-[1.9rem] py-[1rem]">SEE MORE</Link>
+          <Link to="/about" className="block transition-opacity duration-600 ease-in-out hover:opacity-50 mt-[2.4rem] rounded bg-gradient w-[10.625rem] uppercase text-dark-blue font-semibold text-[1.125rem] px-[1.9rem] py-[1rem]">SEE MORE</Link>
         </div>
         <img
           src={image}

@@ -4,7 +4,7 @@ import worksData from "../data/works"
 function Works() {
   return (
     <main>
-      <div className="container py-10">
+      <div className="container py-15">
         <WorksGrid 
           works={worksData}
         />
