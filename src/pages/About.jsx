@@ -36,7 +36,7 @@ function About() {
           </div>
         </div>
       </section>
-      <section className="py-5 mb-7">
+      <section className="py-5 max-md:mb-3 mb-7">
         <div className="py-10">
           <h2 className="font-cinzel text-[1.75rem] font-bold text-gradient text-center">Skills</h2>
           <p className="max-md:max-w-[80%] max-md:mx-auto text-[1rem] text-center">I strive to never stop learning and improving.</p>
@@ -49,7 +49,7 @@ function About() {
           ))}
         </div>
       </section>
-      <section className="py-5 mb-7">
+      <section className="py-5 max-md:mb-3 mb-7">
         <div className="py-10">
           <h2 className="font-cinzel text-[1.75rem] font-bold text-gradient text-center">Work Experience</h2>
           <p className="max-md:max-w-[80%] max-md:mx-auto text-[1rem] text-center">An outline of my professional background.</p>
