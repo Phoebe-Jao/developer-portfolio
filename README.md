@@ -8,7 +8,7 @@ A new portfolio website built with **React JS** and **Tailwind CSS**.
 
 ![Screenshot](https://i.imgur.com/w1vLR7P.png)
 
-[Preview]()
+[Preview](https://jaophoebe-portfolio.netlify.app/)
 
 ---
 
