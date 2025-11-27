@@ -17,7 +17,7 @@ function ScrollTriggered({ children, delay = 0, duration = 1 }) {
       }}
       initial="hidden"
       whileInView="visible"
-      viewport={{ once: true, amount: 0.6 }}
+      viewport={{ once: true, amount: 0.5 }}
       transition={{ delay, type: "spring", duration }}
     >
       {children}

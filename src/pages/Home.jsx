@@ -6,11 +6,11 @@ import ScrollTriggered from "../components/ScrollTriggered"
 
 function Home() {
   return (
-    <main className="min-h-screen pt-17.5 pb-[5.3rem]">
+    <main className="min-h-screen max-md:pt-10 pt-17.5 pb-[5.3rem]">
       <ScrollTriggered>
         <section className="container max-md:flex-col max-md:gap-6 flex justify-center items-center gap-[5%]">
           <div className="max-md:max-w-full max-w-[50%]">
-            <h1 className="max-md:text-[2rem] min-[769px]:2xl:text-6xl text-4xl font-cinzel font-medium text-gradient leading-relaxed bg-clip-text">
+            <h1 className="max-md:text-[1.8rem] min-[769px]:2xl:text-6xl text-4xl font-cinzel font-medium text-gradient leading-relaxed bg-clip-text">
               Hi, I'm Phoebe Jao<br />
               <span className="font-extrabold max-md:text-5xl min-[769px]:2xl:text-5xl text-5xl">Front End Developer</span>
             </h1>
